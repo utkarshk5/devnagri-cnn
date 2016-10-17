@@ -1,0 +1,9 @@
+	step 0, training accuracy 0.0290698 validation accuracy 0.0120284
+	step 100, training accuracy 0.0232558 validation accuracy 0.0185894
+	step 300, training accuracy 0.133721 validation accuracy 0.118644
+	step 500, training accuracy 0.313953 validation accuracy 0.255877
+	step 1000, training accuracy 0.569767 validation accuracy 0.509568
+	step 1500, training accuracy 0.813954 validation accuracy 0.603062
+	step 3000, training accuracy 0.912791 validation accuracy 0.650082
+	step 4000, training accuracy 0.924419 validation accuracy 0.656096
+	step 5000, training accuracy 0.959302 validation accuracy 0.659377

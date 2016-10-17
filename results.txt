@@ -1,0 +1,22 @@
+80x80 -> 6400 without hidden layers:
+	step 0, training accuracy 0.00947399 validation accuracy 0.00984144
+	step 100, training accuracy 0.00941587 validation accuracy 0.0125752
+	step 1000, training accuracy 0.0398721 validation accuracy 0.0284308
+	step 1500, training accuracy 0.0516129 validation accuracy 0.036632
+	step 2000, training accuracy 0.0781749 validation accuracy 0.0535812
+	step 3000, training accuracy 0.0875908 validation accuracy 0.0557682
+	step 4000, training accuracy 0.165301 validation accuracy 0.0913067
+	step 4900, training accuracy 0.222377 validation accuracy 0.11591
+	step 6000, training accuracy 0.238884 validation accuracy 0.119191
+	step 21000, training accuracy 0.543453 validation accuracy 0.189097
+	step 22000, training accuracy 0.642965 validation accuracy 0.218626
+	step 23000, training accuracy 0.64019 validation accuracy 0.204997
+
+dnn_1 with pp:
+	step 0, training accuracy 0.00964836 validation accuracy 0.00874795
+	step 100, training accuracy 0.2873 validation accuracy 0.138874
+	step 200, training accuracy 0.503168 validation accuracy 0.238382
+	step 500, training accuracy 0.798605 validation accuracy 0.32094
+	step 1000, training accuracy 0.955478 validation accuracy 0.352105
+	step 2000, training accuracy 0.998838 validation accuracy 0.359759
+	step 3000, training accuracy 1 validation accuracy 0.366867
